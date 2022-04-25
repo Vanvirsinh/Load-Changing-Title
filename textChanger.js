@@ -1,10 +1,8 @@
 
-var textChangerElmt = document.getElementById('textChanger');
-
-
 function textLoader(arr, time) {
-
-
+    
+    var textChangerElmt = document.getElementById('textChanger');
+    
     var j = 0;
 
     function wordLoader(word, timing) {
