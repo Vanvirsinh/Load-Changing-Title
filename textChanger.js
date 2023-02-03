@@ -28,6 +28,5 @@ function textLoader(arr, time) {
     }
 
     wordLoader(arr[0], time);
-    console.log(j);
 
 }
